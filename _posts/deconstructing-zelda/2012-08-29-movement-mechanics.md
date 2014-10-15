@@ -1,6 +1,6 @@
 ---
 title: Movement Mechanics
-layout: post
+layout: article
 categories: deconstructing-zelda
 excerpt: One of the earliest and most enduring digital game genres, the adventure game's basic template is simple.
 image:
