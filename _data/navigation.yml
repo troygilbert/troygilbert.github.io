@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: How to Create Adventure Games
-  url: /how-to-create-adventure-games/
-  image: how-to-create-adventure-games-teaser-image.jpg
+# - title: How to Create Adventure Games
+#   url: /how-to-create-adventure-games/
+#   image: how-to-create-adventure-games-teaser-image.jpg
 
-- title: Deconstructing Zelda
-  url: /deconstructing-zelda/
-  image: deconstructing-zelda-teaser-image.png
+# - title: Deconstructing Zelda
+#   url: /deconstructing-zelda/
+#   image: deconstructing-zelda-teaser-image.png
 
-- title: Inspiring Developers
-  url: /inspiring-developers/
-  image: locomalito-teaser-image.jpg
+# - title: Inspiring Developers
+#   url: /inspiring-developers/
+#   image: locomalito-teaser-image.jpg
