@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /
-title: "Troy Gilbert"
 ---
 
 <div class="tiles">
