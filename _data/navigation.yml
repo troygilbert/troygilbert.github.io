@@ -2,10 +2,12 @@
 
 - title: How to Create Adventure Games
   url: /how-to-create-adventure-games/
-  excerpt: My modern adaptation of Christopher Lampton's book.
   image: how-to-create-adventure-games-teaser-image.jpg
 
 - title: Deconstructing Zelda
   url: /deconstructing-zelda/
-  excerpt: I love the original Legend of Zelda on the NES.
   image: deconstructing-zelda-teaser-image.png
+
+- title: Inspiring Developers
+  url: /inspiring-developers/
+  image: locomalito-teaser-image.jpg
