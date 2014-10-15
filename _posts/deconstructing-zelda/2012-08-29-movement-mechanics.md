@@ -2,7 +2,7 @@
 title: Movement Mechanics
 layout: article
 categories: deconstructing-zelda
-excerpt: One of the earliest and most enduring digital game genres, the adventure game's basic template is simple.
+excerpt: Link's movement displays a surprising amount of subltety.
 image:
   teaser: deconstructing-zelda-teaser-image.png
   feature: deconstructing-zelda-feature-image.png
