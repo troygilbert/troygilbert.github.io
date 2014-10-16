@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Troy Gilbert
-description: "I make games."
+description: I make games.
 logo: logo.png # 120x120 px default image used for Twitter summary card
 teaser: teaser-empty.png # 400x250 px default teaser image used in image archive grid
 locale:
