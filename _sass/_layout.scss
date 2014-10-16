@@ -11,6 +11,7 @@
 	}
 	.inner-wrap {
 		@include outer-container;
+		border-bottom: 1px $black solid;
 	}
 }
 .site-title {
@@ -456,9 +457,9 @@
 
 #site-footer {
 	@include outer-container;
-	margin-top: (3 * (0px + $doc-line-height));
-	margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
-	padding-bottom: $gutter;
+	// margin-top: (3 * (0px + $doc-line-height));
+	// margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
+	// padding-bottom: $gutter;
 	font-family: $alt-font;
 	.copyright {
 		@include font-size(12);
