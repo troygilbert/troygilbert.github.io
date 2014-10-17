@@ -1,10 +1,10 @@
 ---
 title: Thoughts on StoryNexus
-layout: post
+layout: article
 categories: modeling-games
-----
+---
 
-<a href="https://docs.google.com/document/d/1K1wnNJoBhxr17fe3kHQTnpvWLdyxeKWZBKivDQHsdJg/edit" title="StoryNexus Reference Doc" target="_blank">StoryNexus</a> is a narrative game engine developed by <a href="http://www.failbettergames.com/" title="Failbetter Games" target="_blank">Failbetter Games</a>, originally to power their game <a href="http://www.failbettergames.com/fallen-london/" title="Fallen London" target="_blank">Fallen London</a>, and later opened up for the public to use to create their own story worlds. It appears to now be in "maintenance mode". It was brought to my attention in this <a href="http://thegamedesignroundtable.com/2014/10/07/episode-100-failbetter-game-and-fallen-london/" title="Game Design Round Table, Episode #100: Failbetter Game and Fallen London" target="_blank">excellent interview with from the Game Design Roundtable podcast</a>.
+[StoryNexus](https://docs.google.com/document/d/1K1wnNJoBhxr17fe3kHQTnpvWLdyxeKWZBKivDQHsdJg/edit) is a narrative game engine developed by [Failbetter Games](http://www.failbettergames.com/), originally to power their game [Fallen London](http://www.failbettergames.com/fallen-london/), and later opened up for the public to use to create their own story worlds. It appears to now be in "maintenance mode". It was brought to my attention in this [excellent interview with them from the Game Design Roundtable podcast](http://thegamedesignroundtable.com/2014/10/07/episode-100-failbetter-game-and-fallen-london/).
 
 It's basically a choose-your-own-adventure game, like Twine, but more structured.
 
