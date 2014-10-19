@@ -1,7 +1,7 @@
 ---
 title: Simples Pimples
 layout: article
-categories: free-ingredients
+categories: ingredients
 excerpt: I'm not an artist. So for many of my projects I rely on the generosity of others. Here's a fantastic tileset to grab onto.
 image:
   teaser: simples-pimples-teaser-image.png
