@@ -360,8 +360,9 @@
 		@include omega(4n);
 	}
 	.entry-date {
-		@include font-size(16,no);
-		color: lighten($text-color,25);
+		@include font-size(14,no);
+		color: lighten($text-color,50);
+		margin-top: 0;
 	}
 	.post-title {
 		@include font-size(18,no);
