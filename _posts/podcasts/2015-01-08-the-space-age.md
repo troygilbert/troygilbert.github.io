@@ -2,7 +2,7 @@
 title: The Space Age
 layout: article
 categories: podcasts
-excerpt: With the release of Space Age, we were blessed with many awesome podcast appearances with its developers.
+excerpt: With the release of Space Age, we were blessed with many awesome podcast appearances by its developers.
 image:
   teaser: space-age-teaser-image.jpg
   feature: space-age-feature-image.jpg
