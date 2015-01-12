@@ -16,6 +16,14 @@ I first stumbled across [Eldritch](http://www.eldritchgame.com/), an FPS rogueli
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/P4dPXa1W9RA" frameborder="0" allowfullscreen></iframe>
 
+David's currently working on a political thriller stealth game, [Neon Struct](http://neonstruct.com/), which sounds super interesting, and is pretty honest about its ups and downs on [its blog](http://neonstruct.com/blog/). The title sequence gives a great vibe:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/mZ8oxc-teME" frameborder="0" allowfullscreen></iframe>
+
+And JP LeBreton did a play through of a dev build:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/56CPxPrrhlE" frameborder="0" allowfullscreen></iframe>
+
 Pittman is part of two-man team -- twins, in fact -- who form the studio [Minor Key Games](http://www.minorkeygames.com/). His brother, [J. Kyle Pittman](https://twitter.com/PirateHearts), made [two](http://www.piratehearts.com/blog/games/you-have-to-win-the-game/) [games](http://www.superwinthegame.com/) that ooze with NES sentimentality. They so closely and cleverly evoke all my favorites from that period -- Super Mario Bros. 2, Dragon Warrior, Metroid -- that I swear he's ripped tiles straight from the ROMs.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/5GSMutcLaiU" frameborder="0" allowfullscreen></iframe>
