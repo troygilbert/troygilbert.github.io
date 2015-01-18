@@ -1,5 +1,5 @@
 ---
-title: How To Make A Game
+title: How To Make Games
 layout: article
 categories: videos
 excerpt: There's been a fantastic assortment of how-to videos lately.
