@@ -1,7 +1,7 @@
 ---
 title: Dumbhack
 layout: article
-categories: dumbhack
+categories: about-dumbhack
 excerpt: My favorite game name, and my first app in an app store.
 image:
   teaser: dumbhack-teaser-image.png
