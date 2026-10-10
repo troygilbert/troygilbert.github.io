@@ -5,10 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#151a20" />
     <title>Solvent Green</title>
-    <script type="module" crossorigin src="./assets/index-CLelXwYW.js"></script>
+    <style>html,body{background:#0d1116;margin:0}#app[aria-hidden=true]{visibility:hidden}#loading-screen{z-index:9999;color:#d6f69a;text-align:center;background:#0d1116;place-content:center;gap:16px;padding:24px;font:14px system-ui,sans-serif;display:grid;position:fixed;inset:0}#loading-screen p{letter-spacing:.12em;margin:0}#loading-progress{appearance:none;background:#1c3026;border:1px solid #42654c;width:min(280px,75vw);height:8px}#loading-progress::-webkit-progress-bar{background:#1c3026}#loading-progress::-webkit-progress-value{background:#d6f69a}#loading-progress::-moz-progress-bar{background:#d6f69a}</style>
+    <script type="module" crossorigin src="./assets/index-DXphwZ3W.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-0V0wiqw6.css">
   </head>
   <body>
-    <div id="app"></div>
+    <div id="loading-screen" role="status" aria-live="polite">
+      <p id="loading-label">Loading Solvent Green…</p>
+      <progress id="loading-progress" aria-labelledby="loading-label" max="100" value="0"></progress>
+    </div>
+    <div id="app" aria-hidden="true" inert></div>
   </body>
 </html>
