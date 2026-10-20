@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Solvent Green",
+  "short_name": "Solvent Green",
+  "description": "A survival board game about staying solvent.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1116",
+  "theme_color": "#151a20",
+  "icons": [
+    { "src": "icons/app-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/app-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
